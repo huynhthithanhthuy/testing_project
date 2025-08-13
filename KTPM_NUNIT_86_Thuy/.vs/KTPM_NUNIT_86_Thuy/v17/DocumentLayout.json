@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491E0F38-D457-4DB7-BF8E-8E6BF083F5D0}|KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy.csproj|D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\ktpm_nunit_86_thuy\\radixconverter_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491E0F38-D457-4DB7-BF8E-8E6BF083F5D0}|KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy.csproj|solutionrelative:ktpm_nunit_86_thuy\\radixconverter_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491E0F38-D457-4DB7-BF8E-8E6BF083F5D0}|KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy.csproj|D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\ktpm_nunit_86_thuy\\convert_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{491E0F38-D457-4DB7-BF8E-8E6BF083F5D0}|KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy.csproj|solutionrelative:ktpm_nunit_86_thuy\\convert_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADF23FC-86CC-48A0-AD48-25D533527F90}|NUNIT_86_Thuy\\NUNIT_86_Thuy.csproj|D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\nunit_86_thuy\\unittest_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADF23FC-86CC-48A0-AD48-25D533527F90}|NUNIT_86_Thuy\\NUNIT_86_Thuy.csproj|solutionrelative:nunit_86_thuy\\unittest_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADF23FC-86CC-48A0-AD48-25D533527F90}|NUNIT_86_Thuy\\NUNIT_86_Thuy.csproj|d:\\baitap\\unittest\\ktpm_86_thuy\\ktpm_nunit_86_thuy\\nunit_86_thuy\\data_86_thuy\\dataconvert_86_thuy.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ADF23FC-86CC-48A0-AD48-25D533527F90}|NUNIT_86_Thuy\\NUNIT_86_Thuy.csproj|solutionrelative:nunit_86_thuy\\data_86_thuy\\dataconvert_86_thuy.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1002703A-416B-49DB-A152-6C32783CF262}|WebDriver_86_Thuy\\WebDriver_86_Thuy.csproj|D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\webdriver_86_thuy\\pinterest_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1002703A-416B-49DB-A152-6C32783CF262}|WebDriver_86_Thuy\\WebDriver_86_Thuy.csproj|solutionrelative:webdriver_86_thuy\\pinterest_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1002703A-416B-49DB-A152-6C32783CF262}|WebDriver_86_Thuy\\WebDriver_86_Thuy.csproj|D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\webdriver_86_thuy\\pinterest_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1002703A-416B-49DB-A152-6C32783CF262}|WebDriver_86_Thuy\\WebDriver_86_Thuy.csproj|solutionrelative:webdriver_86_thuy\\pinterest_86_thuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadixConverter_86_Thuy.cs",
+              "DocumentMoniker": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy\\RadixConverter_86_Thuy.cs",
+              "RelativeDocumentMoniker": "KTPM_NUNIT_86_Thuy\\RadixConverter_86_Thuy.cs",
+              "ToolTip": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy\\RadixConverter_86_Thuy.cs",
+              "RelativeToolTip": "KTPM_NUNIT_86_Thuy\\RadixConverter_86_Thuy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:22:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataConvert_86_Thuy.csv",
+              "DocumentMoniker": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\NUNIT_86_Thuy\\Data_86_Thuy\\DataConvert_86_Thuy.csv",
+              "RelativeDocumentMoniker": "NUNIT_86_Thuy\\Data_86_Thuy\\DataConvert_86_Thuy.csv",
+              "ToolTip": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\NUNIT_86_Thuy\\Data_86_Thuy\\DataConvert_86_Thuy.csv",
+              "RelativeToolTip": "NUNIT_86_Thuy\\Data_86_Thuy\\DataConvert_86_Thuy.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-01T01:19:06.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest_86_Thuy.cs",
+              "DocumentMoniker": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\NUNIT_86_Thuy\\UnitTest_86_Thuy.cs",
+              "RelativeDocumentMoniker": "NUNIT_86_Thuy\\UnitTest_86_Thuy.cs",
+              "ToolTip": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\NUNIT_86_Thuy\\UnitTest_86_Thuy.cs",
+              "RelativeToolTip": "NUNIT_86_Thuy\\UnitTest_86_Thuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:16:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pinterest_86_Thuy.cs",
+              "DocumentMoniker": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\WebDriver_86_Thuy\\Pinterest_86_Thuy.cs",
+              "RelativeDocumentMoniker": "WebDriver_86_Thuy\\Pinterest_86_Thuy.cs",
+              "ToolTip": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\WebDriver_86_Thuy\\Pinterest_86_Thuy.cs",
+              "RelativeToolTip": "WebDriver_86_Thuy\\Pinterest_86_Thuy.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:00:15.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pinterest_86_Thuy.cs [Design]",
+              "DocumentMoniker": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\WebDriver_86_Thuy\\Pinterest_86_Thuy.cs",
+              "RelativeDocumentMoniker": "WebDriver_86_Thuy\\Pinterest_86_Thuy.cs",
+              "ToolTip": "D:\\BaiTap\\UnitTest\\KTPM_NUNIT_86_Thuy\\WebDriver_86_Thuy\\Pinterest_86_Thuy.cs [Design]",
+              "RelativeToolTip": "..\\..\\KTPM_NUNIT_86_Thuy\\WebDriver_86_Thuy\\Pinterest_86_Thuy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:57:55.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Convert_86_Thuy.cs [Design]",
+              "DocumentMoniker": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy\\Convert_86_Thuy.cs",
+              "RelativeDocumentMoniker": "KTPM_NUNIT_86_Thuy\\Convert_86_Thuy.cs",
+              "ToolTip": "D:\\BaiTap\\UnitTest\\KTPM_86_Thuy\\KTPM_NUNIT_86_Thuy\\KTPM_NUNIT_86_Thuy\\Convert_86_Thuy.cs [Design]",
+              "RelativeToolTip": "KTPM_NUNIT_86_Thuy\\Convert_86_Thuy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:41:35.45Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

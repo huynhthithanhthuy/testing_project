@@ -1,0 +1,10 @@
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\bin\Debug\KTPM_NUNIT_86_Thuy.exe.config
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\bin\Debug\KTPM_NUNIT_86_Thuy.exe
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\bin\Debug\KTPM_NUNIT_86_Thuy.pdb
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.csproj.AssemblyReference.cache
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.Convert_86_Thuy.resources
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.Properties.Resources.resources
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.csproj.GenerateResource.cache
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.csproj.CoreCompileInputs.cache
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.exe
+D:\BaiTap\UnitTest\KTPM_NUNIT_86_Thuy\KTPM_NUNIT_86_Thuy\obj\Debug\KTPM_NUNIT_86_Thuy.pdb
